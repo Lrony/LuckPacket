@@ -16,5 +16,6 @@
 - 运行`robot.py`后扫码登陆
 
 ## 感谢
+- 感谢[youfou](https://github.com/youfou/wxpy)提供的微信协议框架
 - 感谢[game-helper](https://github.com/game-helper/hongbao)提供的领取红包接口
 - 本项目部分逻辑参考自[dj940212](https://github.com/dj940212/hongbao-bot)
