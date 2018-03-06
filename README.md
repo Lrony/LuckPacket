@@ -3,7 +3,7 @@
 > 微信快速领取最大红包
 
 ## 机器人微信
-![](https://raw.githubusercontent.com/Lrony/LuckPacket/master/QR.jpg)
+<img src="https://raw.githubusercontent.com/Lrony/LuckPacket/master/QR.jpg" width="200px" />
 
 ## 使用说明
 - 添加机器人为好友
