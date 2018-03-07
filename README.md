@@ -1,9 +1,8 @@
 # LuckPacket
 
-> 微信快速领取最大红包
+**饿了么、美团均已失效，感谢大家这段时间以来的支持**
 
-## 机器人微信
-<img src="https://raw.githubusercontent.com/Lrony/LuckPacket/master/QR.jpg" width="200px" />
+> 微信快速领取最大红包
 
 ## 使用说明
 - 添加机器人为好友
